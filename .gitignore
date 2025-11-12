@@ -7,3 +7,4 @@ dataset_schema.py
 *.npz
 *.pth
 *.npy
+*.csv
