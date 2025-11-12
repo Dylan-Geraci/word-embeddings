@@ -8,3 +8,4 @@ dataset_schema.py
 *.pth
 *.npy
 *.csv
+*.txt
