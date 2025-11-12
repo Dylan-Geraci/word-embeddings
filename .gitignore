@@ -1,0 +1,9 @@
+ datasets/
+__pycache__/
+*.pyc
+*.pyo
+tests.py
+dataset_schema.py
+*.npz
+*.pth
+*.npy
